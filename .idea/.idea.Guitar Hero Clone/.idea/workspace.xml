@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb896d69-3127-4a38-b088-46aee631800b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NoteLane.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <marker date="1554833998441" expanded="true" signature="6:78" ph="..." />
+                <marker date="1554833998441" expanded="true" signature="117:227" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipMixerBehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding>
+                <marker date="1554843358957" expanded="true" signature="6:177" ph="..." />
+                <marker date="1554843358957" expanded="true" signature="238:2061" ph="{...}" />
+                <marker date="1554843358957" expanded="true" signature="393:555" ph="/* private Stack&lt;GameObject&gt; knobs = new Stack&lt;GameObject&gt;(); ... */" />
+                <marker date="1554843358957" expanded="true" signature="602:716" ph="{...}" />
+                <marker date="1554843358957" expanded="true" signature="764:929" ph="{...}" />
+                <marker date="1554843358957" expanded="true" signature="1147:2059" ph="{...}" />
+                <marker date="1554843358957" expanded="true" signature="1446:1500" ph="{...}" />
+                <marker date="1554843358957" expanded="true" signature="1569:2053" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipTrack.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="86" column="49" selection-start-line="86" selection-start-column="49" selection-end-line="86" selection-end-column="49" />
+              <folding>
+                <marker date="1554842856328" expanded="true" signature="6:161" ph="..." />
+                <marker date="1554842856328" expanded="true" signature="318:3492" ph="{...}" />
+                <marker date="1554842856328" expanded="true" signature="527:715" ph="{...}" />
+                <marker date="1554842856328" expanded="true" signature="745:892" ph="{...}" />
+                <marker date="1554842856328" expanded="true" signature="924:2294" ph="{...}" />
+                <marker date="1554842856328" expanded="true" signature="1176:1290" ph="{...}" />
+                <marker date="1554842856328" expanded="true" signature="1479:2288" ph="{...}" />
+                <marker date="1554842856328" expanded="true" signature="1554:1643" ph="{...}" />
+                <marker date="1554842856328" expanded="true" signature="1718:1983" ph="/* var dif = (clip.start % gameManager.interval); ... */" />
+                <marker date="1554842856328" expanded="true" signature="2010:2227" ph="/* if (!Mathf.Approximately((float) (clip.start % gameManager.interval), 0f)) ... */" />
+                <marker date="1554842856328" expanded="true" signature="2398:3102" ph="{...}" />
+                <marker date="1554842856328" expanded="true" signature="2848:3004" ph="/* var bind = outputs.ElementAt(0); ... */" />
+                <marker date="1554842856328" expanded="true" signature="3167:3490" ph="{...}" />
+                <marker date="1554842856328" expanded="true" signature="3296:3484" ph="/* var asset = clip.asset as NoteLaneClip; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <marker date="1554786624258" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554786624258" expanded="true" signature="120:276" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClip.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding>
+                <marker date="1554838817849" expanded="true" signature="6:89" ph="..." />
+                <marker date="1554838817849" expanded="true" signature="167:694" ph="{...}" />
+                <marker date="1554838817849" expanded="false" signature="376:557" ph="{...}" />
+                <marker date="1554838817849" expanded="true" signature="617:692" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>asset</find>
+      <find>asse</find>
+      <find>notelanecl</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="KonViction &lt;andre.luiz.coelho@outlook.com&gt;" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Guitar Hero Clone" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClip.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6762AD0A-1C12-4309-84B4-16EA09F2382B/47/727dfcf6/ITimelineClipAsset.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipMixerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NoteLane.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipTrack.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/NoteLane.cs" />
+        <option value="$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClip.cs" />
+        <option value="$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipTrack.cs" />
+        <option value="$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipMixerBehaviour.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb896d69-3127-4a38-b088-46aee631800b" name="Default Changelist" comment="" />
+      <created>1554771879183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554771879183</updated>
+      <workItem from="1554771886490" duration="12735000" />
+      <workItem from="1554828867859" duration="15424000" />
+      <workItem from="1578630977061" duration="791000" />
+      <workItem from="1578632138582" duration="7000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1578631056633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578631056633</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28957000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25519446" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3295099" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="2" />
+      <window_info anchor="bottom" id="Unit Tests" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/GameController.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6762AD0A-1C12-4309-84B4-16EA09F2382B/47/727dfcf6/ITimelineClipAsset.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1554784293733" expanded="false" signature="6:89" ph="..." />
+            <marker date="1554784293733" expanded="true" signature="160:238" ph="{...}" />
+            <marker date="1554784293733" expanded="true" signature="224:236" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NoteLane.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1554833998441" expanded="true" signature="6:78" ph="..." />
+            <marker date="1554833998441" expanded="true" signature="117:227" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipTrack.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="86" column="49" selection-start-line="86" selection-start-column="49" selection-end-line="86" selection-end-column="49" />
+          <folding>
+            <marker date="1554842856328" expanded="true" signature="6:161" ph="..." />
+            <marker date="1554842856328" expanded="true" signature="318:3492" ph="{...}" />
+            <marker date="1554842856328" expanded="true" signature="527:715" ph="{...}" />
+            <marker date="1554842856328" expanded="true" signature="745:892" ph="{...}" />
+            <marker date="1554842856328" expanded="true" signature="924:2294" ph="{...}" />
+            <marker date="1554842856328" expanded="true" signature="1176:1290" ph="{...}" />
+            <marker date="1554842856328" expanded="true" signature="1479:2288" ph="{...}" />
+            <marker date="1554842856328" expanded="true" signature="1554:1643" ph="{...}" />
+            <marker date="1554842856328" expanded="true" signature="1718:1983" ph="/* var dif = (clip.start % gameManager.interval); ... */" />
+            <marker date="1554842856328" expanded="true" signature="2010:2227" ph="/* if (!Mathf.Approximately((float) (clip.start % gameManager.interval), 0f)) ... */" />
+            <marker date="1554842856328" expanded="true" signature="2398:3102" ph="{...}" />
+            <marker date="1554842856328" expanded="true" signature="2848:3004" ph="/* var bind = outputs.ElementAt(0); ... */" />
+            <marker date="1554842856328" expanded="true" signature="3167:3490" ph="{...}" />
+            <marker date="1554842856328" expanded="true" signature="3296:3484" ph="/* var asset = clip.asset as NoteLaneClip; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <marker date="1554786624258" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554786624258" expanded="true" signature="120:276" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClip.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <marker date="1554838817849" expanded="true" signature="6:89" ph="..." />
+            <marker date="1554838817849" expanded="true" signature="167:694" ph="{...}" />
+            <marker date="1554838817849" expanded="false" signature="376:557" ph="{...}" />
+            <marker date="1554838817849" expanded="true" signature="617:692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NoteLaneClip/NoteLaneClipMixerBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <marker date="1554843358957" expanded="true" signature="6:177" ph="..." />
+            <marker date="1554843358957" expanded="true" signature="238:2061" ph="{...}" />
+            <marker date="1554843358957" expanded="true" signature="393:555" ph="/* private Stack&lt;GameObject&gt; knobs = new Stack&lt;GameObject&gt;(); ... */" />
+            <marker date="1554843358957" expanded="true" signature="602:716" ph="{...}" />
+            <marker date="1554843358957" expanded="true" signature="764:929" ph="{...}" />
+            <marker date="1554843358957" expanded="true" signature="1147:2059" ph="{...}" />
+            <marker date="1554843358957" expanded="true" signature="1446:1500" ph="{...}" />
+            <marker date="1554843358957" expanded="true" signature="1569:2053" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

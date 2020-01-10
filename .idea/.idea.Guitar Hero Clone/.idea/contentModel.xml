@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\KonViction\.Rider2019.1\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\KonViction\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\KonViction\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Guitar Hero Clone.1457612327.00" t="ExcludeRecursive" />
+    <e p="F:\Documents\Unity Projects\Guitar Hero Clone" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DefaultPlayables" t="Include">
+          <e p="Editor" t="Include">
+            <e p="TimelinePlayableWizard.cs" t="Include" />
+          </e>
+        </e>
+        <e p="GameManager.cs" t="Include" />
+        <e p="NoteLane.cs" t="Include" />
+        <e p="NoteLaneClip" t="Include">
+          <e p="Editor" t="Include">
+            <e p="NoteLaneClipDrawer.cs" t="Include" />
+          </e>
+          <e p="NoteLaneClip.cs" t="Include" />
+          <e p="NoteLaneClipBehaviour.cs" t="Include" />
+          <e p="NoteLaneClipMixerBehaviour.cs" t="Include" />
+          <e p="NoteLaneClipTrack.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Guitar Hero Clone.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
